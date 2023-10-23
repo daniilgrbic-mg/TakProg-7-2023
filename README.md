@@ -1,5 +1,9 @@
 # TakProg-7 (2023 edition)
 
+```
+Casovi ce se odrzavati utorkom u 14 casova kabinetu 308
+```
+
 ## Plan rada
 
 Na pocetku cemo se primarno baviti osnovama programiranja u `C++`u, prateci (do na manje promene) program [Petljine C++ zbirke](https://petlja.org/biblioteka/r/Zbirka/01%20Aritmetika)
