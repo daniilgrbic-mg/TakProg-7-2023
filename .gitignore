@@ -1,2 +1,7 @@
+# Okruzenje VS code
+.vscode/
+
+# Fajlovi generisani kompajlerom na Windows i Linux OS
 *.o
 *.exe
+*.out
