@@ -5,3 +5,6 @@
 *.o
 *.exe
 *.out
+
+# Folder u kom spremam materijale za kacenje
+future/
