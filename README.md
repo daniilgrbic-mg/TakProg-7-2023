@@ -14,15 +14,8 @@
 
 ## Materijali
 
-- [x] 31 oktobar: uvodni cas, ulaz i izlaz, promenljive, aritmetika
-  - [Promenljive, osnovni tipovi](materijali/01_31.10.23/promeljive_tipovi.cpp)
-  - [Aritmetika, redosled operacija](materijali/01_31.10.23/aritmetika.cpp)
-  - [Celobrojno i realno deljenje](materijali/01_31.10.23/celobrojno_realno_deljenje.cpp)
-  - [Ulaz i izlaz: `cin>>` i `cout<<`](materijali/01_31.10.23/ulaz_izlaz.cpp)
-  - [Funkcije `min`, `max`, `floor`, `ceil` i `round`](materijali/01_31.10.23/funkcije_brojevi.cpp)
-
 - [ ] \[ONLINE\] 3 novembar: tok programa, grananje, *rad sa mesovitim velicinama*
-  - Grananje, `if..elif..else` naredba 
+  - Grananje, `if..else` naredba, logicke operacije (`>`, `<`, `>=`, `<=`, `==`, `!=`, `&&`, `||`) 
     - [Primer: deljenje sa proverom](materijali/02_03.11.23/deljenje_provera.cpp)
     - [Primer: stranice trougla](materijali/02_03.11.23/stranice_trougla.cpp)
     - [Zadatak: Kakuro provera](materijali/02_03.11.23/kakuro_provera.cpp) ([Petlja](https://arena.petlja.org/competition/os7-202223-kvalifikacije1n#tab_134844))
@@ -30,11 +23,17 @@
     - [Primer: razlika u masi](materijali/02_03.11.23/razlika_masa.cpp)
     - [Zadatak: racunanje vremena](materijali/02_03.11.23/racunanje_vremena.cpp)
 
+- [x] 31 oktobar: uvodni cas, ulaz i izlaz, promenljive, aritmetika
+  - [Promenljive, osnovni tipovi](materijali/01_31.10.23/promeljive_tipovi.cpp)
+  - [Aritmetika, redosled operacija](materijali/01_31.10.23/aritmetika.cpp)
+  - [Celobrojno i realno deljenje](materijali/01_31.10.23/celobrojno_realno_deljenje.cpp)
+  - [Ulaz i izlaz: `cin>>` i `cout<<`](materijali/01_31.10.23/ulaz_izlaz.cpp)
+  - [Funkcije `min`, `max`, `floor`, `ceil` i `round`](materijali/01_31.10.23/funkcije_brojevi.cpp)
+
 ## Sledece teme
 
 Na pocetku cemo se primarno baviti osnovama programiranja u `C++`u, kasnije prelazimo full-time na takmicarske zadatke 🙂
 
-- [ ] Tok programa, logicki izrazi, tip `bool`, grananje (`if...else` naredbe)
 - [ ] Iteracija: `for` petlja, pravilne serije brojeva
 - [ ] Iteracija: `while` petlja, ucitavanje serija brojeva
 - [ ] Preslikavanje serija brojeva, tabeliranje funkcija

@@ -1,5 +1,5 @@
 /*
-Dato je neko vreme, u satima i munitma; i intrval vremena (takodje u satima i minutima).
+Dato je neko vreme, u satima i munitma; i interval vremena (takodje u satima i minutima).
 Potrebno je odrediti koliko ce biti sati nakon sto prodje dat interval vremena.
 
 PRIMER 1
@@ -24,6 +24,15 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    int h, m;
+    cin >> h >> m;
+
+    int ih, im;
+    cin >> ih >> im;
+
+    int vreme = (h*60 + m + ih*60 + im) % (24*60);
+
+    cout << vreme/60 << " " << vreme%60 << endl;
+
     return 0;
 }

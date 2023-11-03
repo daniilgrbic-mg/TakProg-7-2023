@@ -1,6 +1,6 @@
 /*
-Date su duzine 3 duzi P, Q i R.
-Potreno je odrediti da li je moguce naoraviti trougao od tih duzi.
+Date su duzine 3 duzi A, B, i C.
+Potreno je odrediti da li je moguce napraviti trougao od tih duzi.
 
 PRIMER 1
 ulaz    3 4 5
@@ -17,6 +17,16 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    int a, b, c;
+    cin >> a >> b >> c;
+
+    // dovoljan uslov: zbir svakog para stranica je veci od trece stranice
+    if(a+b>c && b+c>a && c+a>b) {
+        cout << "DA" << endl;
+    }
+    else {
+        cout << "NE" << endl;
+    }
+
     return 0;
 }

@@ -9,6 +9,14 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    int a, b;
+    cin >> a >> b;
+    if(b == 0) {
+        cout << "Deljenje sa nulom" << endl;
+    }
+    else {
+        float c = 1.0 * a / b;
+        cout << c << endl;
+    }
     return 0;
 }
