@@ -14,14 +14,21 @@
 
 ## Materijali
 
-- [x] 31 oktobar: uvodni cas
-  - [Promenljive, osnovni tipovi](primeri/promeljive_tipovi.cpp)
-  - [Aritmetika, redosled operacija](primeri/aritmetika.cpp)
-  - [Celobrojno i realno deljenje](primeri/celobrojno_realno_deljenje.cpp)
-  - [Ulaz i izlaz: `cin>>` i `cout<<`](primeri/ulaz_izlaz.cpp)
-  - [Funkcije `min`, `max`, `floor`, `ceil` i `round`](primeri/funkcije_brojevi.cpp)
+- [x] 31 oktobar: uvodni cas, ulaz i izlaz, promenljive, aritmetika
+  - [Promenljive, osnovni tipovi](materijali/01_31.10.23/promeljive_tipovi.cpp)
+  - [Aritmetika, redosled operacija](materijali/01_31.10.23/aritmetika.cpp)
+  - [Celobrojno i realno deljenje](materijali/01_31.10.23/celobrojno_realno_deljenje.cpp)
+  - [Ulaz i izlaz: `cin>>` i `cout<<`](materijali/01_31.10.23/ulaz_izlaz.cpp)
+  - [Funkcije `min`, `max`, `floor`, `ceil` i `round`](materijali/01_31.10.23/funkcije_brojevi.cpp)
 
-- [ ] \[ONLINE\] 3 novembar: tok programa, grananje
+- [ ] \[ONLINE\] 3 novembar: tok programa, grananje, *rad sa mesovitim velicinama*
+  - Grananje, `if..elif..else` naredba 
+    - [Primer: deljenje sa proverom](materijali/02_03.11.23/deljenje_provera.cpp)
+    - [Primer: stranice trougla](materijali/02_03.11.23/stranice_trougla.cpp)
+    - [Zadatak: Kakuro provera](materijali/02_03.11.23/kakuro_provera.cpp) ([Petlja](https://arena.petlja.org/competition/os7-202223-kvalifikacije1n#tab_134844))
+  - Rad sa mesovitim velicinama
+    - [Primer: razlika u masi](materijali/02_03.11.23/razlika_masa.cpp)
+    - [Zadatak: racunanje vremena](materijali/02_03.11.23/racunanje_vremena.cpp)
 
 ## Sledece teme
 
