@@ -12,7 +12,21 @@
 
 > [Razvojno okruzenje - Code::Blocks](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe)
 
+> **Gde naci zadatke?**
+> - [Petljina zbirka](https://petlja.org/biblioteka/r/kursevi/Zbirka) (osnove programiranja, ne nuzno takmicarske stvari)
+> - [Pripreme za takmicenja](https://takprog.petlja.org/osnovnaskola/posts/16) (lekcije su u Pythonu, al zadaci su super)
+
 ## Materijali
+
+- [ ] 14. novembar: petlje `while` i `for`, zadaci za vezbu
+  - Primeri `while` i `for` petlji 
+  - Grananje, zadaci za obnavljanje:
+    - [Dva broja istog znaka](https://petlja.org/biblioteka/r/Zbirka/dva_broja_istog_znaka)
+    - [Da li se dve dame napadaju](https://petlja.org/biblioteka/r/Zbirka/da_li_se_dve_dame_napadaju)
+    - [Robot Bojan](https://arena.petlja.org/sr-Latn-RS/competition/pripreme-a1-03#tab_134976)
+  - [Petlje, osnovniji zadaci](https://petlja.org/biblioteka/r/Zbirka/03%20Iteracija/01%20serije/01%20pravilne_serije)
+    - Podsetnik: [kako ispisivati broj sa decimalama?](materijali/03_07.11.23_kval/decimale.cpp)
+  - [Petlje, napredniji zadaci (pripreme A1-07)](https://arena.petlja.org/competition/pripreme-a1-07)
 
 - [x] 7. novembar: pregled prve runde kvalifikacija
   - [Zadaci (Petlja)](https://arena.petlja.org/competition/os7-202324-kvalifikacije1n)
