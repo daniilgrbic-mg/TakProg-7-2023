@@ -14,7 +14,15 @@
 
 ## Materijali
 
-- [ ] \[ONLINE\] 3 novembar: tok programa, grananje, *rad sa mesovitim velicinama*
+- [x] 7. novembar: pregled prve runde kvalifikacija
+  - [Zadaci (Petlja)](https://arena.petlja.org/competition/os7-202324-kvalifikacije1n)
+    - [A - Pogresna Operacija](materijali/03_07.11.23_kval/A_pogresna_operacija.cpp)
+    - [B - Razvrstavanje](materijali/03_07.11.23_kval/B_razvrstavanje.cpp)
+    - [C - Promena Skole](materijali/03_07.11.23_kval/C_promena_skole.cpp)
+    - [D - Najdalji Najblizi](materijali/03_07.11.23_kval/D_najdalji_najblizi.cpp)
+    - [F - Najveci NZD](materijali/03_07.11.23_kval/F_najveci_nzd.cpp)
+
+- [x] \[ONLINE\] 3. novembar: tok programa, grananje, *rad sa mesovitim velicinama*
   - Grananje, `if..else` naredba, logicke operacije (`>`, `<`, `>=`, `<=`, `==`, `!=`, `&&`, `||`) 
     - [Primer: deljenje sa proverom](materijali/02_03.11.23/deljenje_provera.cpp)
     - [Primer: stranice trougla](materijali/02_03.11.23/stranice_trougla.cpp)
@@ -23,7 +31,7 @@
     - [Primer: razlika u masi](materijali/02_03.11.23/razlika_masa.cpp)
     - [Zadatak: racunanje vremena](materijali/02_03.11.23/racunanje_vremena.cpp)
 
-- [x] 31 oktobar: uvodni cas, ulaz i izlaz, promenljive, aritmetika
+- [x] 31. oktobar: uvodni cas, ulaz i izlaz, promenljive, aritmetika
   - [Promenljive, osnovni tipovi](materijali/01_31.10.23/promeljive_tipovi.cpp)
   - [Aritmetika, redosled operacija](materijali/01_31.10.23/aritmetika.cpp)
   - [Celobrojno i realno deljenje](materijali/01_31.10.23/celobrojno_realno_deljenje.cpp)
