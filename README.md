@@ -18,6 +18,19 @@
 
 ## Materijali
 
+- [ ] 5. Decembar - uvod u vektore + vezbanje
+  - [Vektori: sintaksa](materijali/nizovi/sintaksa.cpp)
+  - [Sta su Fibonaci brojevi?](https://sr.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B1%D0%BE%D0%BD%D0%B0%D1%87%D0%B8%D1%98%D0%B5%D0%B2_%D0%BD%D0%B8%D0%B7)
+  - [Program koji racuna Fibonacijeve brojeve](materijali/nizovi/fibonaci.cpp)
+  - Radi vezbanja, uradite sledece zadatke koristeci vektore:
+    - [Najmanja temperatura](https://petlja.org/biblioteka/r/Zbirka/najmanja_temperatura1)
+    - [Ispis u obrnutom redosledu](https://petlja.org/biblioteka/r/Zbirka/ispis_u_obratnom_redosledu)
+    - [Parni i neparni elemnti](https://petlja.org/biblioteka/r/Zbirka/parni_i_neparni_elementi) (tu mozete da napravite dva vektora za cuvanje parnih, odnosno neparnih elemenata tokom ulaza; pa cete ih ispisati posle)
+
+- [ ] \[ONLINE\] 2. decembar
+  - [Ucitavanje serija brojeva](https://petlja.org/biblioteka/r/Zbirka/03%20Iteracija/01%20serije/02%20ucitavanje)
+  - Naredbe `break` i `continue`
+
 - [ ] 21. novembar: petlje, zadaci
   - [Petlje, osnovniji zadaci](https://petlja.org/biblioteka/r/Zbirka/03%20Iteracija/01%20serije/01%20pravilne_serije)
     - Podsetnik: [kako ispisivati broj sa decimalama?](materijali/03_07.11.23_kval/decimale.cpp)
