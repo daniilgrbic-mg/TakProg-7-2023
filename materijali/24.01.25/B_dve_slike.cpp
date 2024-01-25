@@ -7,6 +7,31 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
-    return 0;
+    int xp, yp;
+    int x1, y1;
+    int x2, y2;
+
+    cin >> xp >> yp >> x1 >> y1 >> x2 >> y2;
+
+    int rasporedi = 0;
+
+    // dva raspored pre okratanaja platna
+    if(x1 + x2 <= xp && y1 <= yp && y2 <= yp) {
+        rasporedi++;
+    }
+    if(y1 + y2 <= yp && x1 <= xp && x2 <= xp) {
+        rasporedi++;
+    }
+
+    swap(xp, yp); // okrecem platno
+
+    // dva raspored POSLE okratanaja platna
+    if(x1 + x2 <= xp && y1 <= yp && y2 <= yp) {
+        rasporedi++;
+    }
+    if(y1 + y2 <= yp && x1 <= xp && x2 <= xp) {
+        rasporedi++;
+    }
+
+    cout << rasporedi << endl;
 }
