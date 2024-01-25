@@ -18,6 +18,16 @@
 
 ## Materijali
 
+- [ ] 25. Januar - zimska primera za opstinsko
+  - [Okruzno 2022/23](https://arena.petlja.org/competition/os7-202223-okruznon#tab_135157)
+    - [B - Dve slike na papiru](materijali/24.01.25/B_dve_slike.cpp)
+    - [C - Proizvod bez trenutnog broja](materijali/24.01.25/C_proizvod_bez_broja.cpp)
+  - [Okruzno 2021/22](https://arena.petlja.org/competition/os7-202122-okruznon#tab_134186)
+    - [A - Iks-Oks](materijali/24.01.25/A_iks_oks.cpp)
+    - [B - Cifre i slova](materijali/24.01.25/B_cifre_slova.cpp)
+  - [Pripreme A1-11](https://arena.petlja.org/competition/pripreme-a1-11#tab_135239)
+    - [C - Najveci porast](materijali/24.01.25/C_najveci_porast.cpp)
+
 - [x] 5. Decembar - uvod u vektore + vezbanje
   - [Vektori: sintaksa](materijali/nizovi/sintaksa.cpp)
   - [Sta su Fibonaci brojevi?](https://sr.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B1%D0%BE%D0%BD%D0%B0%D1%87%D0%B8%D1%98%D0%B5%D0%B2_%D0%BD%D0%B8%D0%B7)
