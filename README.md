@@ -18,7 +18,15 @@
 
 ## Materijali
 
-- [ ] 25. Januar - zimska primera za opstinsko
+- [ ] 1. Februar - ASCII, string-ovi, funkcija substr
+  - Spisak ASCII funkcija: [cctype](https://cplusplus.com/reference/cctype/)
+  - [Optinsko 2024 - zadatak C](https://arena.petlja.org/competition/os7-202324-opstinskon#tab_135767)
+  - [Prezime pa ime](https://petlja.org/biblioteka/r/Zbirka/prezime_pa_ime) (to je ova fora sa `while(cin>>nesto){...}`)
+  - [Cezarov kod](https://petlja.org/biblioteka/r/Zbirka/cezarov_kod)
+  - [Sve podreci](https://petlja.org/biblioteka/r/Zbirka/sve_podreci1)
+  - [Rec Frankenstajn](https://petlja.org/biblioteka/r/Zbirka/rec_frankenstajn)
+
+- [x] 25. Januar - zimska primera za opstinsko
   - [Okruzno 2022/23](https://arena.petlja.org/competition/os7-202223-okruznon#tab_135157)
     - [B - Dve slike na papiru](materijali/24.01.25/B_dve_slike.cpp)
     - [C - Proizvod bez trenutnog broja](materijali/24.01.25/C_proizvod_bez_broja.cpp)
