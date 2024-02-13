@@ -18,7 +18,9 @@
 
 ## Materijali
 
-- [ ] 1. Februar - ASCII, string-ovi, funkcija substr
+- [ ] 14. Februar - funkcija ``
+
+- [x] 1. Februar - ASCII, string-ovi, funkcija `substr`
   - Spisak ASCII funkcija: [cctype](https://cplusplus.com/reference/cctype/)
   - [Optinsko 2024 - zadatak C](https://arena.petlja.org/competition/os7-202324-opstinskon#tab_135767)
   - [Prezime pa ime](https://petlja.org/biblioteka/r/Zbirka/prezime_pa_ime) (to je ova fora sa `while(cin>>nesto){...}`)
