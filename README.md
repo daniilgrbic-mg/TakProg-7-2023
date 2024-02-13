@@ -18,7 +18,11 @@
 
 ## Materijali
 
-- [ ] 14. Februar - funkcija ``
+- [ ] 14. Februar - funkcije `find` i `replace`
+  - [Da li je podniska?](https://petlja.org/biblioteka/r/Zbirka/da_li_je_podniska)
+  - [Broj pojavljivanja podniske](https://petlja.org/biblioteka/r/Zbirka/broj_pojavljivanja_podniske)
+  - [Podela na reci](https://petlja.org/biblioteka/r/Zbirka/podela_linije_na_reci)
+  - [Izbacivanje podniski](https://petlja.org/biblioteka/r/Zbirka/izbacivanje_podniski)
 
 - [x] 1. Februar - ASCII, string-ovi, funkcija `substr`
   - Spisak ASCII funkcija: [cctype](https://cplusplus.com/reference/cctype/)
