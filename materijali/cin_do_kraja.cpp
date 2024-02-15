@@ -45,3 +45,9 @@ Vodite racuna o tome da je moguce stavljati i vece cin-ove, na primer:
     }
 Ovakva petlja ce da se vrti sve dok su OBA podatka uspesno unesena.
 */
+
+/*
+PIMERI ZADATAKA:
+    1. https://petlja.org/biblioteka/r/Zbirka/citanje_do_kraja_ulaza
+    2. https://petlja.org/biblioteka/r/Zbirka/prezime_pa_ime
+*/
