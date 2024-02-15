@@ -18,19 +18,24 @@
 
 ## Materijali
 
-- [ ] 14. Februar - funkcije `find` i `replace`
-  - [Da li je podniska?](https://petlja.org/biblioteka/r/Zbirka/da_li_je_podniska)
-  - [Broj pojavljivanja podniske](https://petlja.org/biblioteka/r/Zbirka/broj_pojavljivanja_podniske)
-  - [Podela na reci](https://petlja.org/biblioteka/r/Zbirka/podela_linije_na_reci)
-  - [Izbacivanje podniski](https://petlja.org/biblioteka/r/Zbirka/izbacivanje_podniski)
+- Rad sa `string`-ovima, funkcije `substr`, `find` i `replace`
+  - [Uvod u niske - stvaranje, ucitavanje, osnovne operacije](/materijali/stringovi/uvod.md)
+  - [Pravljenje podniski datog stringa - funkcija `substr`](/materijali/stringovi/substring.cpp)
+    - Zadatak: [Sve podreci](https://petlja.org/biblioteka/r/Zbirka/sve_podreci1)
+    - Zadatak: [Rec Frankenstajn](https://petlja.org/biblioteka/r/Zbirka/rec_frankenstajn)
+  - [Pretraga u niskama - funkcija `find`](/materijali/stringovi/find.cpp)
+    - Zadatak: [Da li je podniska?](https://petlja.org/biblioteka/r/Zbirka/da_li_je_podniska)
+  - [Pretraga SVIH pojavljivanja reci](/materijali/stringovi/find_nti.cpp)
+    - Zadatak: [Broj pojavljivanja podniske](https://petlja.org/biblioteka/r/Zbirka/broj_pojavljivanja_podniske)
+    - Zadatak: [Podela na reci](https://petlja.org/biblioteka/r/Zbirka/podela_linije_na_reci)
+  - [Izmena niske, zamena njenih delova - funkcija `replace`](/materijali/stringovi/replace.cpp)
+    - Zadatak: [Izbacivanje podniski](https://petlja.org/biblioteka/r/Zbirka/izbacivanje_podniski)  
 
 - [x] 1. Februar - ASCII, string-ovi, funkcija `substr`
   - Spisak ASCII funkcija: [cctype](https://cplusplus.com/reference/cctype/)
   - [Optinsko 2024 - zadatak C](https://arena.petlja.org/competition/os7-202324-opstinskon#tab_135767)
   - [Prezime pa ime](https://petlja.org/biblioteka/r/Zbirka/prezime_pa_ime) (to je ova fora sa `while(cin>>nesto){...}`)
   - [Cezarov kod](https://petlja.org/biblioteka/r/Zbirka/cezarov_kod)
-  - [Sve podreci](https://petlja.org/biblioteka/r/Zbirka/sve_podreci1)
-  - [Rec Frankenstajn](https://petlja.org/biblioteka/r/Zbirka/rec_frankenstajn)
 
 - [x] 25. Januar - zimska primera za opstinsko
   - [Okruzno 2022/23](https://arena.petlja.org/competition/os7-202223-okruznon#tab_135157)
