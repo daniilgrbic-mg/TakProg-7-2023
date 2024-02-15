@@ -20,6 +20,8 @@
 
 - Rad sa `string`-ovima, funkcije `substr`, `find` i `replace`
   - [Uvod u niske - stvaranje, ucitavanje, osnovne operacije](/materijali/stringovi/uvod.md)
+    - Zadatak: [Prezime pa ime](https://petlja.org/biblioteka/r/Zbirka/prezime_pa_ime) ([podsetnik - kako ucitavati do kraja ulaza?](/materijali/cin_do_kraja.cpp))
+    - Zadatak: [Optinsko 2024 - zadatak C](https://arena.petlja.org/competition/os7-202324-opstinskon#tab_135767)
   - [Pravljenje podniski datog stringa - funkcija `substr`](/materijali/stringovi/substring.cpp)
     - Zadatak: [Sve podreci](https://petlja.org/biblioteka/r/Zbirka/sve_podreci1)
     - Zadatak: [Rec Frankenstajn](https://petlja.org/biblioteka/r/Zbirka/rec_frankenstajn)
@@ -31,10 +33,12 @@
   - [Izmena niske, zamena njenih delova - funkcija `replace`](/materijali/stringovi/replace.cpp)
     - Zadatak: [Izbacivanje podniski](https://petlja.org/biblioteka/r/Zbirka/izbacivanje_podniski)  
 
+- Ucitavanje do kraja ulaza `while(cin>>...) { ... }`
+  - [Kako se postize? Koja je motivacija iza toga?](/materijali/cin_do_kraja.cpp)
+    - Zadatak: [Citanje do kraja ulaza](https://petlja.org/biblioteka/r/Zbirka/citanje_do_kraja_ulaza)
+
 - [x] 1. Februar - ASCII, string-ovi, funkcija `substr`
   - Spisak ASCII funkcija: [cctype](https://cplusplus.com/reference/cctype/)
-  - [Optinsko 2024 - zadatak C](https://arena.petlja.org/competition/os7-202324-opstinskon#tab_135767)
-  - [Prezime pa ime](https://petlja.org/biblioteka/r/Zbirka/prezime_pa_ime) (to je ova fora sa `while(cin>>nesto){...}`)
   - [Cezarov kod](https://petlja.org/biblioteka/r/Zbirka/cezarov_kod)
 
 - [x] 25. Januar - zimska primera za opstinsko
