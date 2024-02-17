@@ -4,6 +4,7 @@
 
 - Rad sa `string`-ovima, funkcije `substr`, `find` i `replace`
   - [Uvod u niske - stvaranje, ucitavanje, osnovne operacije](/materijali/stringovi/uvod.md)
+  - [Rad sa karakterima `char` i ASCII funkcije nad njima](/materijali/stringovi/ascii.md)
   - [Pravljenje podniski datog stringa - funkcija `substr`](/materijali/stringovi/substring.cpp)
   - [Pretraga u niskama - funkcija `find`](/materijali/stringovi/find.cpp)
   - [Pretraga SVIH pojavljivanja reci](/materijali/stringovi/find_nti.cpp)
@@ -31,7 +32,7 @@
 - 1\. februar - ASCII, string-ovi, funkcija `substr`
   - [Stvaranje, ucitavanje, osnovne operacije nad niskama](/materijali/stringovi/uvod.md)
   - [Pravljenje podniski datog stringa - funkcija substr](/materijali/stringovi/substring.cpp)
-  - [Spisak ASCII funkcija (tolower, toupper, isalpha,..)](https://cplusplus.com/reference/cctype/)
+  - [Rad sa karakterima `char` i ASCII funkcije](/materijali/stringovi/ascii.md)
   - Zadaci:
     - [Optinsko 2024 "C -Slepo kucanje"](https://arena.petlja.org/competition/os7-202324-opstinskon#tab_135767) i [resenje](/materijali/casovi/feb01/C_slepo_kucanje.cpp)
 
