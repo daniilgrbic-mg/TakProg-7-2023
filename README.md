@@ -1,18 +1,19 @@
 # TakProg-7 (2023 edition)
 
 ## Materijali (izdvojeno)
-
+- Sortiranje i tehnika 2 pokazivača
+  - [YouTube snimak 🎞️](https://www.youtube.com/watch?v=0Z1K93qGphk) + [kod](/materijali/nizovi/sortiranje.cpp)
 - Rad sa `string`-ovima, funkcije `substr`, `find` i `replace`
-  - [Uvod u niske - stvaranje, ucitavanje, osnovne operacije](/materijali/stringovi/uvod.md)
+  - [Uvod u niske - stvaranje, učitavanje, osnovne operacije](/materijali/stringovi/uvod.md)
   - [Rad sa karakterima `char` i ASCII funkcije nad njima](/materijali/stringovi/ascii.md)
   - [Pravljenje podniski datog stringa - funkcija `substr`](/materijali/stringovi/substring.cpp)
   - [Pretraga u niskama - funkcija `find`](/materijali/stringovi/find.cpp)
-  - [Pretraga SVIH pojavljivanja reci](/materijali/stringovi/find_nti.cpp)
+  - [Pretraga SVIH pojavljivanja reči](/materijali/stringovi/find_nti.cpp)
   - [Izmena niske, zamena njenih delova - funkcija `replace`](/materijali/stringovi/replace.cpp)
 - Nesvrstano:
-  - [Ucitavanje do kraja ulaza `while(cin>>...) { ... }`](/materijali/cin_do_kraja.cpp)
+  - [Učitavanje do kraja ulaza `while(cin>>...) { ... }`](/materijali/cin_do_kraja.cpp)
 
-## Materijali (po casovima)
+## Materijali (po časovima)
 
 <!-- - 20\. februar - funkcije `find` i `replace`
   - Zadaci:
@@ -21,7 +22,9 @@
     - [Podela na reci](https://petlja.org/biblioteka/r/Zbirka/podela_linije_na_reci)
     - [Izbacivanje podniski](https://petlja.org/biblioteka/r/Zbirka/izbacivanje_podniski)   -->
 
-- 14\. februar - vezbanje
+- 24\. februar - sortiranje i tehnika 2 pokazivača (online)
+
+- 14\. februar - vežbanje
   - [Ucitavanje do kraja ulaza](/materijali/cin_do_kraja.cpp)
   - Zadaci:
     - [Prezime pa ime](https://petlja.org/biblioteka/r/Zbirka/prezime_pa_ime)
@@ -36,7 +39,7 @@
   - Zadaci:
     - [Optinsko 2024 "C -Slepo kucanje"](https://arena.petlja.org/competition/os7-202324-opstinskon#tab_135767) i [resenje](/materijali/casovi/feb01/C_slepo_kucanje.cpp)
 
-- 25\. januar - priprema za opstinsko
+- 25\. januar - priprema za opštinsko (online)
   - [Okruzno 2023](https://arena.petlja.org/competition/os7-202223-okruznon#tab_135157)
     - Resenje: [B - Dve slike na papiru](/materijali/casovi/jan25/B_dve_slike.cpp)
     - Resenje: [C - Proizvod bez trenutnog broja](/materijali/casovi/jan25/C_proizvod_bez_broja.cpp)
@@ -48,7 +51,7 @@
 
 ---
 
-- [x] 5. Decembar - uvod u vektore + vezbanje
+- [x] 5. Decembar - uvod u vektore + vežbanje
   - [Vektori: sintaksa](materijali/nizovi/sintaksa.cpp)
   - [Sta su Fibonaci brojevi?](https://sr.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B1%D0%BE%D0%BD%D0%B0%D1%87%D0%B8%D1%98%D0%B5%D0%B2_%D0%BD%D0%B8%D0%B7)
   - [Program koji racuna Fibonacijeve brojeve](materijali/nizovi/fibonaci.cpp)
@@ -66,7 +69,7 @@
     - Podsetnik: [kako ispisivati broj sa decimalama?](materijali/23.11.07/decimale.cpp)
   - [Petlje, napredniji zadaci (pripreme A1-07)](https://arena.petlja.org/competition/pripreme-a1-07)
 
-- [x] 14. novembar: petlje `while` i `for`, zadaci za vezbu
+- [x] 14. novembar: petlje `while` i `for`, zadaci za vežbu
   - Primeri `while` i `for` petlji 
   - Grananje, zadaci za obnavljanje:
     - [Dva broja istog znaka](https://petlja.org/biblioteka/r/Zbirka/dva_broja_istog_znaka)
@@ -90,7 +93,7 @@
     - [Primer: razlika u masi](materijali/23.11.03/razlika_masa.cpp)
     - [Zadatak: racunanje vremena](materijali/23.11.03/racunanje_vremena.cpp)
 
-- [x] 31. oktobar: uvodni cas, ulaz i izlaz, promenljive, aritmetika
+- [x] 31. oktobar: uvodni čas, ulaz i izlaz, promenljive, aritmetika
   - [Promenljive, osnovni tipovi](materijali/23.10.31/promeljive_tipovi.cpp)
   - [Aritmetika, redosled operacija](materijali/23.10.31/aritmetika.cpp)
   - [Celobrojno i realno deljenje](materijali/23.10.31/celobrojno_realno_deljenje.cpp)
