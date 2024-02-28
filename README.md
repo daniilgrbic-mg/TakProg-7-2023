@@ -1,8 +1,11 @@
 # TakProg-7 (2023 edition)
 
 ## Materijali (izdvojeno)
+- Rečnici (mape)
+  - [Uvod i primer zadatka (snimak)](https://www.youtube.com/watch?v=x39EKA3bMgw) + [prvi primer](/materijali/casovi/feb27/recnici.cpp) + [drugi primer](/materijali/casovi/feb27/kodiranje.cpp)
 - Sortiranje i tehnika 2 pokazivača
-  - [YouTube snimak 🎞️](https://www.youtube.com/watch?v=0Z1K93qGphk) + [kod](/materijali/nizovi/sortiranje.cpp)
+  - [Tehnika 2 pokazivača (snimak)](https://www.youtube.com/watch?v=0Z1K93qGphk) + [kod](/materijali/nizovi/sortiranje.cpp)
+  - [Napredniji sort (snimak)](https://www.youtube.com/watch?v=GgCncQ2iA7w) + [kod](/materijali/casovi/feb27/napredniji_sort.cpp)
 - Rad sa `string`-ovima, funkcije `substr`, `find` i `replace`
   - [Uvod u niske - stvaranje, učitavanje, osnovne operacije](/materijali/stringovi/uvod.md)
   - [Rad sa karakterima `char` i ASCII funkcije nad njima](/materijali/stringovi/ascii.md)
@@ -22,7 +25,17 @@
     - [Podela na reci](https://petlja.org/biblioteka/r/Zbirka/podela_linije_na_reci)
     - [Izbacivanje podniski](https://petlja.org/biblioteka/r/Zbirka/izbacivanje_podniski)   -->
 
+- 27\. februar - napredniji sort i rečnici
+  - [Napredniji sort (snimak)](https://www.youtube.com/watch?v=GgCncQ2iA7w) + [kod](/materijali/casovi/feb27/napredniji_sort.cpp)
+  - [Uvod u rečnike (video)](https://www.youtube.com/watch?v=x39EKA3bMgw)
+    - [prvi primer](/materijali/casovi/feb27/recnici.cpp)
+    - [drugi primer](/materijali/casovi/feb27/kodiranje.cpp)
+  - Zadaci za vežbu:
+    - [B - Izostanci sa posla](https://arena.petlja.org/competition/pripreme-b1-02)
+    - [A - Zalihe u magacinu](https://arena.petlja.org/competition/pripreme-b1-06)
+
 - 24\. februar - sortiranje i tehnika 2 pokazivača (online)
+  - [Video](https://www.youtube.com/watch?v=0Z1K93qGphk) + [kod](/materijali/nizovi/sortiranje.cpp)
 
 - 14\. februar - vežbanje
   - [Ucitavanje do kraja ulaza](/materijali/cin_do_kraja.cpp)
