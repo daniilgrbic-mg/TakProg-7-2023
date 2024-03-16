@@ -18,25 +18,30 @@
 
 ## Materijali (po časovima)
 
+<!-- - [Tehnika 2 pokazivača](https://petlja.org/biblioteka/r/Zbirka2/01%20slozenost/05%20dva_pokazivaca)
+  - [Zbirka 2 - Objedinjavanje](https://petlja.org/biblioteka/r/Zbirka2/objedinjavanje)
+  - [Zbirka 2 - Soertirani kvadrati brojeva](https://petlja.org/biblioteka/r/Zbirka2/sortirani_kvadrati_brojeva)
+  - [LeetCode - Valid Palindrome](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+  - [LeetCode - 2 Sum](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+  - [Državno 2022/23, zadatak D - Najbrojnija okolina](https://arena.petlja.org/sr-Latn-RS/competition/os7-202223-drzavnon#tab_135303) + [kod]()  -->
+
+- 17\. mart - rečnici i skupovi, vežbanje
+  - [Zbirka 2 - Broj parova datog zbira](https://petlja.org/biblioteka/r/Zbirka2/broj_parova_datog_zbira1)
+  - [Zbirka 2 - Sortiranje brojeva](https://petlja.org/biblioteka/r/Zbirka2/sortiranje_brojeva1) (zadatk uradite koristeći `set`)
+  - [Zbirka 2 - Anagrami](https://petlja.org/biblioteka/r/Zbirka2/anagrami1) (hint: string se može sortirati isto kao i vector)
+
 - 9\. mart - rečnici i skupovi<!--; definitivni uvod u tehniku 2 pokazivača-->
   - Sintaksa: [skupovi(`set`)](/materijali/casovi/mar09/setovi.cpp) i [rečnici (`map`)](/materijali/casovi/mar09/recnici.cpp)
   - [LeetCode - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) + [kod](/materijali/casovi/mar09/sadrzi_duplikat.cpp)
   - [Zbirka - Rimski u arapski](https://petlja.org/biblioteka/r/Zbirka/rimski_u_arapski1) + [kod](/materijali/casovi/mar09/rimski_u_arapski.cpp) 
   - [Zbirka - Izomorfne niske](https://petlja.org/biblioteka/r/Zbirka/izomorfne_niske1) + [kod](/materijali/casovi/mar09/izomorfne_niske.cpp) 
   - Zadaci za vežbu:
+    - [Zbirka - Redni broj meseca](https://petlja.org/biblioteka/r/Zbirka/redni_broj_meseca1)
     - [Zbirka 2 - Duplikati](https://petlja.org/biblioteka/r/Zbirka2/duplikati1)
     - [Zbirka 2 - Neupareni element](https://petlja.org/biblioteka/r/Zbirka2/neupareni_element1)
     - [Zbirka - Frekvencija znaka](https://petlja.org/biblioteka/r/Zbirka/frekvencija_znaka1)
     - [Zbirka - Frekvencije reči](https://petlja.org/biblioteka/r/Zbirka/frekvencije_reci)
-    - [Zbirka - Redni broj meseca](https://petlja.org/biblioteka/r/Zbirka/redni_broj_meseca1)
     - [Državno 2022/23, zadatak B - Prevod](https://arena.petlja.org/sr-Latn-RS/competition/os7-202223-drzavnon#tab_135301)
-
-  <!-- - [Tehnika 2 pokazivača](https://petlja.org/biblioteka/r/Zbirka2/01%20slozenost/05%20dva_pokazivaca)
-    - [Zbirka 2 - Objedinjavanje](https://petlja.org/biblioteka/r/Zbirka2/objedinjavanje)
-    - [Zbirka 2 - Soertirani kvadrati brojeva](https://petlja.org/biblioteka/r/Zbirka2/sortirani_kvadrati_brojeva)
-    - [LeetCode - Valid Palindrome](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-    - [LeetCode - 2 Sum](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-    - [Državno 2022/23, zadatak D - Najbrojnija okolina](https://arena.petlja.org/sr-Latn-RS/competition/os7-202223-drzavnon#tab_135303) + [kod]()  -->
 
 - 27\. februar - napredniji sort i uvod u rečnike
   - [Napredniji sort (snimak)](https://www.youtube.com/watch?v=GgCncQ2iA7w) + [kod](/materijali/casovi/feb27/napredniji_sort.cpp)
