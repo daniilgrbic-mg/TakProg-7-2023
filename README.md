@@ -27,7 +27,7 @@
 
 - 17\. mart - rečnici i skupovi, vežbanje
   - [Zbirka 2 - Broj parova datog zbira](https://petlja.org/biblioteka/r/Zbirka2/broj_parova_datog_zbira1)
-  - [Zbirka 2 - Sortiranje brojeva](https://petlja.org/biblioteka/r/Zbirka2/sortiranje_brojeva1) (zadatk uradite koristeći `set`)
+  - [Zbirka 2 - Sortiranje brojeva](https://petlja.org/biblioteka/r/Zbirka2/sortiranje_brojeva1) (zadatak uradite koristeći `multiset`)
   - [Zbirka 2 - Anagrami](https://petlja.org/biblioteka/r/Zbirka2/anagrami1) (hint: string se može sortirati isto kao i vector)
 
 - 9\. mart - rečnici i skupovi<!--; definitivni uvod u tehniku 2 pokazivača-->
