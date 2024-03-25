@@ -18,19 +18,20 @@
 
 ## Materijali (po časovima)
 
-<!-- - [Tehnika 2 pokazivača](https://petlja.org/biblioteka/r/Zbirka2/01%20slozenost/05%20dva_pokazivaca)
+- 26\. mart - tehnika 2 pokazivača
   - [Zbirka 2 - Objedinjavanje](https://petlja.org/biblioteka/r/Zbirka2/objedinjavanje)
-  - [Zbirka 2 - Soertirani kvadrati brojeva](https://petlja.org/biblioteka/r/Zbirka2/sortirani_kvadrati_brojeva)
-  - [LeetCode - Valid Palindrome](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-  - [LeetCode - 2 Sum](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-  - [Državno 2022/23, zadatak D - Najbrojnija okolina](https://arena.petlja.org/sr-Latn-RS/competition/os7-202223-drzavnon#tab_135303) + [kod]()  -->
+  - [Zbirka 2 - Sortirani kvadrati brojeva](https://petlja.org/biblioteka/r/Zbirka2/sortirani_kvadrati_brojeva)
+  - [LeetCode - Valid palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+  - [LeetCode - Two Sum (sorted)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+  - [Zbirka 2 - Zajednički elementi 3 niza](https://petlja.org/biblioteka/r/Zbirka2/presek_tri_sortirana_niza)
+  - [Državno 2022/23, zadatak D - Najbrojnija okolina](https://arena.petlja.org/sr-Latn-RS/competition/os7-202223-drzavnon#tab_135303)
 
 - 17\. mart - rečnici i skupovi, vežbanje
   - [Zbirka 2 - Broj parova datog zbira](https://petlja.org/biblioteka/r/Zbirka2/broj_parova_datog_zbira1)
   - [Zbirka 2 - Sortiranje brojeva](https://petlja.org/biblioteka/r/Zbirka2/sortiranje_brojeva1) (zadatak uradite koristeći `multiset`)
   - [Zbirka 2 - Anagrami](https://petlja.org/biblioteka/r/Zbirka2/anagrami1) (hint: string se može sortirati isto kao i vector)
 
-- 9\. mart - rečnici i skupovi<!--; definitivni uvod u tehniku 2 pokazivača-->
+- 9\. mart - rečnici i skupovi
   - Sintaksa: [skupovi(`set`)](/materijali/casovi/mar09/setovi.cpp) i [rečnici (`map`)](/materijali/casovi/mar09/recnici.cpp)
   - [LeetCode - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) + [kod](/materijali/casovi/mar09/sadrzi_duplikat.cpp)
   - [Zbirka - Rimski u arapski](https://petlja.org/biblioteka/r/Zbirka/rimski_u_arapski1) + [kod](/materijali/casovi/mar09/rimski_u_arapski.cpp) 
