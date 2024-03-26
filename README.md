@@ -18,12 +18,13 @@
 
 ## Materijali (po časovima)
 
-- 26\. mart - tehnika 2 pokazivača
+- 26\. mart - tehnika 2 pokazivača i sliding window
   - [Zbirka 2 - Objedinjavanje](https://petlja.org/biblioteka/r/Zbirka2/objedinjavanje)
   - [Zbirka 2 - Sortirani kvadrati brojeva](https://petlja.org/biblioteka/r/Zbirka2/sortirani_kvadrati_brojeva)
   - [LeetCode - Valid palindrome](https://leetcode.com/problems/valid-palindrome/description/)
   - [LeetCode - Two Sum (sorted)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
   - [Zbirka 2 - Zajednički elementi 3 niza](https://petlja.org/biblioteka/r/Zbirka2/presek_tri_sortirana_niza)
+  - [LeetCode - Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
   - [Okružno 2023/24, zadatak D - Takmičari](https://arena.petlja.org/competition/os7-202324-okruznon#tab_135866)
   - [Državno 2022/23, zadatak D - Najbrojnija okolina](https://arena.petlja.org/sr-Latn-RS/competition/os7-202223-drzavnon#tab_135303)
 
